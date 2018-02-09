@@ -1,2 +1,2 @@
 # SamplePythonCode
-This Repo is created for LEarning Python
+This Repo is created for Learning Python
