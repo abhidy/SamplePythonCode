@@ -1,6 +1,11 @@
 #!/usr/bin/python
 
-varForLoop = 100
+import sys
+
+arguments = sys.argv[1:]
+count = len(arguments)
+
+varForLoop = int(arguments[0])
 
 for OuterForLoopCounter in range(1,varForLoop):
 	PrimeNumberFlag = 0
